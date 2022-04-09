@@ -5,17 +5,12 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Hola, soy Liz
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> **El necio, entre otros males, posee éste: siempre trata de comenzar su vida.**
+> Epicuro
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me dedico al área de salud, estoy buscando la forma de combinar lo que estoy aprendiendo con mi profesión, pero aun no tengo una idea clara o cercana. 👉 👈
 
